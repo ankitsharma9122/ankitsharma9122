@@ -13,7 +13,6 @@
 * 🏗️ Passionate about **System Design, Scalable Architecture & Performance**
 * ☁️ Exploring **AWS, Distributed Systems & Backend Engineering**
 * 🧠 Solving **DSA & System Design** problems
-* 🎯 Currently preparing for **SDE-2 opportunities**
 
 ---
 
