@@ -58,8 +58,6 @@
 📫 **LinkedIn:**
 https://www.linkedin.com/in/ankit-kumar-93131a1b4/
 
-💻 **GitHub:**
-https://github.com/ankitsharma9122
 
 ---
 
