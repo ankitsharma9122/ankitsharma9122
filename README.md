@@ -24,7 +24,7 @@
 
 **Backend**
 
-`Node.js` `Express.js` `MongoDB` `PostgreSQL`
+`Node.js` `Express.js` `MongoDB` `PostgreSQL` •`System Design` • `Distributed Systems` • `AWS` • `Kafka` • `Redis`
 
 **Cloud & Infrastructure**
 
@@ -49,7 +49,7 @@
 
 ## 📈 Currently Exploring
 
-`System Design` • `Distributed Systems` • `AWS` • `Kafka` • `Redis` • `LLMs` • `Backend Architecture`
+ • `LLMs` • `Backend Architecture`
 
 ---
 
